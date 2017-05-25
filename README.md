@@ -1,3 +1,6 @@
+# NOT WORKING DUE RECAPCHA IMPLEMENTATION (Mai 25 2017)
+
+
 # packtpub-crawler-plus
 My improvements in packtpub-crawler project
 
